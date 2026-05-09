@@ -58,5 +58,5 @@ This project heavily relies on specific data structures to mimic real-world poli
    git clone [https://github.com/Hammad-DevX/Java-DSA-Project/blob/main/CrimeInvestigationSystem.java)
 2. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/Hammad-DevX/Java-DSA-Project/blob/main/CrimeInvestigationSystem.java)
+   git clone [https://github.com/Hammad-DevX/Java-DSA-Project/blob/main/MazeSolverVisualizer.java)
 
